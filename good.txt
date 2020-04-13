@@ -5,9 +5,4 @@
 5555555555555
 6666666             XXXXXXXXXXXXXXXXX
 777777777
-<<<<<<< HEAD
-888888888   edit by hot_fix
-=======
-888888888   edit by master
->>>>>>> master
 999999999
